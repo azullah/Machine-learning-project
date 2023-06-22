@@ -8,5 +8,6 @@ This repository is for the DTSA-5509 Machine Learning Final project. Contents of
 2.  \data\creditcard.csv     - comma separated data file with 284K anonymized credit card transactions 
 
 
+Please unzip the zip file into the /data directory before running the notebook.
 
 
